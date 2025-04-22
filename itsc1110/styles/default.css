@@ -1,0 +1,41 @@
+body {
+    color:#778DA9;
+    background-color:#0D1B2A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    width: 95%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+figure{
+    text-align: center;
+}
+
+figcaption {
+    font-style: italic;
+}
+
+a {
+    text-align: center;
+    color: #415A77;
+}
